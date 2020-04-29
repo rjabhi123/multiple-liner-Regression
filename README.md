@@ -25,7 +25,7 @@
 
 # File Descriptions
 
- Copy of Boston Housing Price Prediction.ipynb : This is a Jupyter Notebook containing the data for prediction.
+ Copy of 03-02-Multiple Regression.ipynb : This is a Jupyter Notebook containing the data for prediction.
 
  boston_data.data : This is a dataset taken from sklearn for prediction.
 
