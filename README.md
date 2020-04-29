@@ -27,7 +27,7 @@
 
  Copy of Boston Housing Price Prediction.ipynb : This is a Jupyter Notebook containing the data for prediction.
 
- housing.csv : This is a dataset taken from sklearn for prediction.
+ boston_data.data : This is a dataset taken from sklearn for prediction.
 
 # Licensing, Authors, Acknowledgements
 
