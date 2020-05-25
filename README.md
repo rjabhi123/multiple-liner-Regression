@@ -1,5 +1,5 @@
 # Boston Housing Price Prediction Using Multiple Linear Regression
-   I am using Housing data for Prediction
+   I am using Housing data for Predicting Boston Housing Price
 
 ## Table of Contents
 
