@@ -10,7 +10,7 @@
 
 # Installation
 
- Here First install python 3 and then after install any IDE like pycharm,Anaconda,Atom,VS Code etc and then after install pandas,numpy,matlpotlib,sklearn etc.
+ Here First install python 3 and then after install any IDE like pycharm,Anaconda,Atom,VS Code etc and then after install                 pandas,numpy,matlpotlib,sklearn etc.
  After installation Now, you are ready for doing yor work.
 
  # Project Motivation
